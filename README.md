@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Google+Sans+Code&weight=500&size=10&duration=2500&pause=100&color=F7F7F7&background=000000&center=true&vCenter=true&multiline=true&width=435&height=55&lines=Code+Geek;Does+Python%2C+Lua%2C+JS%2C+HTML;XML%2C+JSX%2C+doesnt+offer+for+XAML)](https://git.io/typing-svg)
 ```text
-welcome to luauy! where your suffering starts here!
+welcome to n1lang (@n1nerlang)! where your coding starts here!
 ```
 ![Metrics](https://metrics.lecoq.io/luauy?template=classic&base.hireable=true&lines=1&languages=1&notable=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=true&base.skip=false&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&lines.delay=0&notable=false&notable.from=user&notable.repositories=false&notable.indepth=false&notable.types=commit&notable.self=false&config.timezone=Asia%2FManila&config.twemoji=true)
