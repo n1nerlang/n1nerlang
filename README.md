@@ -16,7 +16,6 @@ Working On; Speckle (Coding language)<br>Response to Requests; Ignored
 ![](https://github-contributor-stats.vercel.app/api?username=n1nerlang&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=n1nerlang&icon=3&color=7
-orange)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=n1nerlang&icon=3&color=orange)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
