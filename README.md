@@ -16,6 +16,6 @@ Working On; Speckle (Coding language)<br>Response to Requests; Ignored
 ![](https://github-contributor-stats.vercel.app/api?username=n1nerlang&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-![Visitor Count](https://profile-counter.glitch.me/n1nerlang/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{n1nerlang}/count.svg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
