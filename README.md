@@ -16,7 +16,7 @@ Working On; Speckle (Coding language)<br>Response to Requests; Ignored
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=n1nerlang&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=n1nerlang&limit=5&theme=dark&combine-all-yearly-contributions=true)
 
 ---
 
