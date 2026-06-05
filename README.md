@@ -12,7 +12,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/This%20person%20is%20a-Termux%20User-black?style=plastic&logo=gnu-bash" alt="Termux User">
   <img src="https://img.shields.io/badge/This%20person%20is%20a-Discord%20Bot%20Dev-5865F2?style=plastic&logo=discord" alt="Discord Bot Dev">
-  <img src="https://img.shields.io/badge/This%20person%20is%20an-F1%20Fan-e10600?style=plastic&logo=formula-1" alt="F1 Fan">
+  <img src="https://img.shields.io/badge/This%20person%20is%20an-F1%20Fan-e10600?style=plastic&logo=f1" alt="F1 Fan">
 </div>
 
 ### 👨‍💻 About Me
