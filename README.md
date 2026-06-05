@@ -1,22 +1,49 @@
-# 💫 About Me:
-- Welcome
+<div align="center">
+  <img src="https://www.clker.com/cliparts/e/7/2/1/1317788420400831019pittsburgh%20skyline%20silhouette%20600dpi-md.png" height="20%" width="50%" alt="Skyline Banner">
+  
+  <h1>Hi there, I'm Terrence! 👋</h1>
+  <h3>aka krovixa / lupsup39</h3>
+  <p>Developer | Discord Bot Dev | F1 Enthusiast</p>
+  
+  <img src="https://64.media.tumblr.com/55a4be2d07ac9f640c86202ae7cddba5/1e3f52aa3fa01c75-25/s400x600/bda29c812011e4f70bebbdb7462544fe7c28609a.pnj" alt="Divider">
+</div>
 
-Working On; Speckle (Coding language)<br>Response to Requests; Ignored
+### 🏷️ This Person Is...
+<div align="center">
+  <img src="https://img.shields.io/badge/This%20person%20is%20a-Termux%20User-black?style=for-the-badge&logo=gnu-bash" alt="Termux User">
+  <img src="https://img.shields.io/badge/This%20person%20is%20a-Discord%20Bot%20Dev-5865F2?style=for-the-badge&logo=discord" alt="Discord Bot Dev">
+  <img src="https://img.shields.io/badge/This%20person%20is%20an-F1%20Fan-e10600?style=for-the-badge&logo=formula-1" alt="F1 Fan">
+</div>
 
-[![Visits Badge](https://badges.pufler.dev/visits/pujux/badge-it)](https://badges.pufler.dev)
+### 👨‍💻 About Me
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=plastic&logo=lua&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=plastic&logo=testing-library&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=n1nerlang&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=n1nerlang&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=n1nerlang&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+- 🔭 I’m currently working on OS development with **Defenestration** and building **speckle-lang**.
+- 🤖 I actively build and manage Discord bots using **Discord.js**.
+- 📱 A lot of my local server management and testing happens directly through **Termux**.
+- 🏎️ **Fun fact:** When I'm not coding, I'm probably watching F1 and cheering for Max Verstappen.
+- 🌐 Check out my [personal website](https://tenringsofdoom1x.github.io).
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+  <br>
+  <img src="https://64.media.tumblr.com/6b9d3718dc7c7bcf9a92d042d29eace1/5fc48628005de795-2f/s400x600/5514d363369637d29e22603781979c30d37c5918.pnj" alt="Decorative Element">
+  <br><br>
+</div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=n1nerlang&limit=5&theme=dark&combine-all-yearly-contributions=true)
+### 🛠️ Tech Stack & Tools
 
----
+*   **Languages:** JavaScript, Luau, Lua
+*   **Technologies:** Node.js, Discord.js
+*   **Environments:** Termux
 
+### 🚀 Highlighted Projects
+
+| Project | Description |
+| :--- | :--- |
+| **[Defenestration](https://github.com/n1nerlang/Defenestration)** | Custom OS architecture and system manifest development. |
+| **[speckle-lang](https://github.com/n1nerlang/speckle-lang)** | Custom programming language development. |
+| **[codecat](https://github.com/n1nerlang/codecat)** | Custom development utility. |
+
+<div align="center">
+  <br>
+  <img src="https://media.tumblr.com/tumblr_ltg7lkph4l1r025va.png" alt="Divider">
+</div>
