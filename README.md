@@ -1,8 +1,8 @@
 <div align="center">
   <img src="https://www.clker.com/cliparts/e/7/2/1/1317788420400831019pittsburgh%20skyline%20silhouette%20600dpi-md.png" height="20%" width="50%" alt="Skyline Banner">
   
-  <h1>Hi there, I'm Terrence! 👋</h1>
-  <h3>aka krovixa / lupsup39</h3>
+  <h1>Hi there, I'm <query>n1ner</query>! 👋</h1>
+  <h3>aka queryholder</h3>
   <p>Developer | Discord Bot Dev | F1 Enthusiast</p>
   
   <img src="https://64.media.tumblr.com/55a4be2d07ac9f640c86202ae7cddba5/1e3f52aa3fa01c75-25/s400x600/bda29c812011e4f70bebbdb7462544fe7c28609a.pnj" alt="Divider">
